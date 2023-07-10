@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarikaranSubramanian
-- 👀 I’m interested in creating front-end devolopement projects.
+- 👀 I’m interested in creating front-end web devolopement projects.
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me @harikaran7242@gmail.com
