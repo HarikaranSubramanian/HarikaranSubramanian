@@ -25,6 +25,8 @@ Feel free to explore my [GitHub profile](https://github.com/HarikaranSubramanian
 
 - LinkedIn: [Harikaran Subramanian](https://www.linkedin.com/in/harikaran-subramanian-profile/)
 - Email: harikaran7242@gmail.com
+- Netlify Website: [Harikaran's Portfolio](https://app.netlify.com/teams/harikaransubramanian/overview)
+
 
 ## 🌐 Connect with Me
 
